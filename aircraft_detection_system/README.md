@@ -1,4 +1,4 @@
-# anti-aircraft-devil
+# anti-aircraft model
 
 ## Aim
 To study and apply the algorithms to aim at enemy aircrafts and destroy them. Currently the algorithms and designs are tested on a model operating on Arduino using photoresistors and phototransistors.
